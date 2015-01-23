@@ -1,0 +1,107 @@
+*,body{
+	padding: 0px;
+	margin: 0px;
+}
+html,body{
+	height: 100%;
+}
+.header{
+	background: #3D3D4A;
+	padding: 8px 40px;
+}
+.sidebar{
+	padding: 0;
+	height: 100%;
+	background-color: #35353D;
+}
+.sidebar-header{
+	
+	padding: 8px 25px ;
+	
+}
+h1{
+	margin: 14px 0px;
+	font-family: Raleway;
+	font-size: 22px;
+	color: #ddd;
+}
+h2{
+	border-bottom: 2px solid #aaa;
+	margin: 10px 0 20px 0;
+}
+h3{
+	font-weight: 600px;
+	color: #BABAB8;
+	margin-top: 4px;
+	font-family: Raleway;
+	font-size: 15px;
+	padding:2px;
+	text-align: center;
+}
+#icon-menu{
+	width: 24px;
+	padding-bottom: 10px;
+	margin: 16px 0px -4px -15px;
+}
+.clear{
+	clear: both;
+}
+.shadows{
+	    top: 0px;
+    right: 0px;
+    width: 25px;
+    height: 100%;
+    display: block;
+    position: absolute;
+    background: linear-gradient(to right, transparent 0%, rgba(0, 0, 0, 0.35) 100%) repeat scroll 0% 0% transparent;
+}
+ul li{
+	list-style: none;
+	padding: 15px 40px;
+	font-family: Raleway;
+	font-weight: 600;
+	color: #BABAB8;
+	
+}
+a:hover{
+	text-decoration: none;
+}
+.ativo{
+	background-color: rgba(23, 23, 28, 0.59);
+	transition: background-color 300ms ease 0s;
+	border-left: 10px solid #0A0A0F;
+}
+.perfil{
+	padding: 40px 0px ;
+	text-align: center;
+}
+.perfil-img{
+	width: 84px;
+}
+.conteudo{
+    background-color: #F2F2F2;
+    height: 100%;
+}
+.col-form{
+	padding-bottom: 10px;
+}
+.caixa{
+	margin: auto;
+	margin-top: 40px;
+	background-color: #DBDBDB;
+	width: 250px;
+	height: 100px;
+}
+.legenda-caixa{
+	width: 250px;
+	height: 30px;
+	background-color: #7D7D7D;
+	position: absolute;
+	top: 80%;
+}
+.relative{
+	margin: 5% 50%;
+	position: relative;
+	left: -20px;
+	width:40px;
+}
