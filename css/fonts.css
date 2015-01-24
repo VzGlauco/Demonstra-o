@@ -1,0 +1,23 @@
+
+h1{
+	margin: 14px 0px;
+	font-family: Raleway;
+	font-size: 22px;
+	color: #ddd;
+}
+h2{
+	border-bottom: 2px solid #aaa;
+	margin: 10px 0 20px 0;
+}
+h3{
+	font-weight: 600px;
+	color: #BABAB8;
+	margin-top: 4px;
+	font-family: Raleway;
+	font-size: 15px;
+	padding:2px;
+	text-align: center;
+}
+a:hover{
+	text-decoration: none;
+}

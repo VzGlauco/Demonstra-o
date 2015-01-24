@@ -1,0 +1,20 @@
+*,body{
+	padding: 0px;
+	margin: 0px;
+}
+html,body{
+	height: 100%;
+}
+.header{
+	background-color: #3D3D4A;
+	padding: 8px 40px;
+}
+.sidebar{
+	padding: 0;
+	height: 100%;
+	background-color: #35353D;
+}
+.content{
+    background-color: #F2F2F2;
+    height: 100%;
+}

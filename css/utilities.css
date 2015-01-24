@@ -1,0 +1,23 @@
+.clear{
+	clear: both;
+}
+.shadows{
+	    top: 0px;
+    right: 0px;
+    width: 25px;
+    height: 100%;
+    display: block;
+    position: absolute;
+    background-color: linear-gradient(to right, transparent 0%, rgba(0, 0, 0, 0.35) 100%) repeat scroll 0% 0% transparent;
+}
+.relative{
+	margin: 5% 50%;
+	position: relative;
+	left: -20px;
+	width:40px;
+}
+.active{
+	background-color: rgba(23, 23, 28, 0.59);
+	transition: background-color 300ms ease 0s;
+	border-left: 10px solid #0A0A0F;
+}
