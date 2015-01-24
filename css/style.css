@@ -38,7 +38,7 @@ h3{
 	padding:2px;
 	text-align: center;
 }
-#icon-menu{
+.icon-menu{
 	width: 24px;
 	padding-bottom: 10px;
 	margin: 16px 0px -4px -15px;
@@ -66,33 +66,33 @@ ul li{
 a:hover{
 	text-decoration: none;
 }
-.ativo{
+.active{
 	background-color: rgba(23, 23, 28, 0.59);
 	transition: background-color 300ms ease 0s;
 	border-left: 10px solid #0A0A0F;
 }
-.perfil{
+.profile{
 	padding: 40px 0px ;
 	text-align: center;
 }
-.perfil-img{
+.profile-img{
 	width: 84px;
 }
-.conteudo{
+.content{
     background-color: #F2F2F2;
     height: 100%;
 }
 .col-form{
 	padding-bottom: 10px;
 }
-.caixa{
+.box{
 	margin: auto;
 	margin-top: 40px;
 	background-color: #DBDBDB;
 	width: 250px;
 	height: 100px;
 }
-.legenda-caixa{
+.legend-box{
 	width: 250px;
 	height: 30px;
 	background-color: #7D7D7D;
