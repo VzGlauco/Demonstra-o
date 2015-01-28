@@ -57,13 +57,23 @@ h3{
 }
 ul li{
 	list-style: none;
+}
+.nav-item{	
 	padding: 15px 40px;
 	font-family: Raleway;
 	font-weight: 600;
 	color: #BABAB8;
-	
+	display: block;
+}
+.legend-box a{
+	font-family: Raleway;
+	font-weight: 600;
+	color: #BABAB8;
+	font-size: 17px;
+
 }
 a:hover{
+	color: #BABAB8;
 	text-decoration: none;
 }
 .active{
@@ -98,6 +108,7 @@ a:hover{
 	background-color: #7D7D7D;
 	position: absolute;
 	top: 80%;
+	text-align: center;
 }
 .relative{
 	margin: 5% 50%;

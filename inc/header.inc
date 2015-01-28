@@ -4,11 +4,11 @@
 
 		<a class="toggle" href="#">
 
-			<img class="icon-menu" class=" pull-left" src="img/icon-menu.png" alt="Menu">
+			<img class="icon-menu" class="pull-left" src="img/icon-menu.png" alt="Menu">
 
 		</a>
 
-		<br class="clear"></br>
+		<br class="clear">
 
 	</header>
 				

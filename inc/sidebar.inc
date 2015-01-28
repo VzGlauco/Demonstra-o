@@ -4,36 +4,31 @@
 		<ul>
 	
 			<li class="profile">
+	
+		            <img class="profile-img" src="img/icon-user.png" />
+	        	    <br/>
+	 	            Bem Vindo
+	
+		        </li>
 
-	            <img class="profile-img" src="img/icon-user.png" alt=""/>
-	            <br/>
-	            Bem Vindo
-
-	        </li>
-
-			<a href="index.php">
-				
-				<li class="nav-item">
+			
+			<li>
+				<a href="index.php" class="nav-item">
 					Home
-				</li>
+				</a>
+			</li>
 				
-			</a>
-
-			<a href="novo.php">
-				
-				<li class="nav-item">
+			<li>
+				<a href="novo.php" class="nav-item">
 					Cadastrar
-				</li>
-				
-			</a>
+				</a>
+			</li>
 
-			<a href="consultar.php">
-				
-				<li class="nav-item">
+			<li>
+				<a href="consultar.php" class="nav-item">
 					Consultar
-				</li>
-				
-			</a>
+				</a>
+			</li>
 
 		</ul>
 	</nav>

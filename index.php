@@ -25,42 +25,40 @@
 
          
             <div class="col-md-6">
+             	
+            	<div class="box">
+                		
+            		<a href="novo.php">
+            			<img class="relative" src="img/add139.png"/> 
+            		</a>
 
-               	<a href="novo.php">
+            		<div class="legend-box">
 
-                	<div class="box">
-	                		
-                		<img class="relative" src="img/add139.png"/>
-
-                		<div class="legend-box">
-
-               			<h3>Cadastrar</h3>
-	            
-	               	</div>	            
-	          	</a>
-
-	        </div>
+           				<a href="novo.php">Cadastrar</a>
+            
+               		</div>	            
+          	
+        		</div>
 
            </div>
 	       
-            <div class="col-md-6">
+           <div class="col-md-6">
                 		
-     			<a href="consultar.php">
+     			<div class="box">
 
-                	<div class="box">
+            		<a href="consultar.php">
+            			<img src="img/checkmark15.png" class="relative"/>
+            		</a>
+            		
+            		<div class="legend-box">
 
-                		<img src="img/checkmark15.png" class="relative"/>
+            			<a href="consultar.php">Consultar</a>
 
-                		<div class="legend-box">
+            		</div>
 
-                			<h3>Consultar</h3>
+               	</div>
 
-                		</div>
-
-                	</div>
-
-                </a>
-            </div>
+           </div>
            
         </div>
 		

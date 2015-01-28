@@ -1,10 +1,10 @@
 <?php
 
  function conexao(){
-    $user = 'root';
-    $passwd = '';
-    $db = 'sistema';
-    $host = 'localhost';
+    $user =     'root';
+    $passwd =   '';
+    $db =       'sistema';
+    $host =     'localhost';
 
     mysql_connect($host,$user,$passwd) or die ('Erro ao tentar conexão ao banco de dados: '. mysql_error());
     mysql_select_db($db) or die ('Erro ao selecionar banco de dados: '. mysql_error());
