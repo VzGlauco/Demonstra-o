@@ -1,8 +1,6 @@
-*,body{
+*,html,body{
 	padding: 0px;
 	margin: 0px;
-}
-html,body{
 	height: 100%;
 }
 .header{
